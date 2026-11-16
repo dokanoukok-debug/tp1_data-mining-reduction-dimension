@@ -34,8 +34,8 @@ soit 1778 messages.
 ## Structure du dépôt
 
 ```text
-TP1_data-mining/
-├── TP-1_Machine-Learning.ipynb   # notebook du TP
+tp1_data-mining-reduction-dimension/
+├── TP-1_Machine-Learning_v1.ipynb   # notebook du TP
 ├── figures/                      # figures générées
 ├── requirements.txt              # dépendances Python
 └── README.md
@@ -47,8 +47,8 @@ TP1_data-mining/
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/kossi-ctrl/TP1_data-mining.git
-cd TP1_data-mining
+git clone https://github.com/dokanoukok-debug/tp1_data-mining-reduction-dimension.git
+cd tp1_data-mining-reduction-dimension
 ```
 
 2. Créer et activer un environnement virtuel :
@@ -71,10 +71,14 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Ouvrir `TP-1_Machine-Learning.ipynb` et exécuter les cellules dans l'ordre.
+Ouvrir `TP-1_Machine-Learning_v1.ipynb` et exécuter les cellules dans l'ordre.
 
 
 ## Auteurs
 
-**Kokou DOKANOU**
-**Kossi ZANGBE**
+Projet réalisé en binôme :
+
+- **Kokou DOKANU**
+- **Kossi ZANGBE**
+
+Dépôt d'origine : [kossi-ctrl/tp1_data-mining](https://github.com/kossi-ctrl/tp1_data-mining)
